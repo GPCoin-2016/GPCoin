@@ -1,2 +1,2 @@
 # GPCoin
-GPCoin
+GPCoin:The New Cryptocurrency
